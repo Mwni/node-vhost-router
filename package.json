@@ -1,0 +1,29 @@
+{
+  "name": "vhost-router",
+  "version": "1.0.1",
+  "description": "a very easy to setup proxy router for when you have multiple different projects with different domain names running on the same server",
+  "main": "router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mwni/node-vhost-router.git"
+  },
+  "keywords": [
+    "vhost",
+    "proxy",
+    "router",
+    "ssl",
+    "redirect"
+  ],
+  "author": "Mwni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mwni/node-vhost-router/issues"
+  },
+  "homepage": "https://github.com/Mwni/node-vhost-router#readme",
+  "dependencies": {
+    "bouncy": "^3.2.2"
+  }
+}
