@@ -1,6 +1,6 @@
 # Virtual Hosts Router
 
-![illustration of possible setup](https://mwni.io/files/vhost-graphic.png)
+![illustration of possible setup](https://mwni.io/opensource/node-vhost-router/graphic.png)
 
 The purpose of this module is to provide a very easy to setup proxy router (reverse proxy) for when you have multiple different projects with different domain names running on the same server.
 It is based on [bouncy](https://www.npmjs.com/package/bouncy), but aims to simplify a couple of things.
